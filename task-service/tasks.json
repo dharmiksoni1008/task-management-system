@@ -1,0 +1,15 @@
+
+[
+  {
+    "id": 1,
+    "title": "Complete Week 6 Lab",
+    "description": "Build the API Gateway",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Study Node.js",
+    "description": "Practise Express",
+    "completed": true
+  }
+]
